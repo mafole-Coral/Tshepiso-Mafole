@@ -24,6 +24,7 @@ Full thesis: Investigating the impact of climate, soil, and fire on the potentia
 
 
 
+
 **MSc Botany** (University of KwaZulu-Natal, Norwegian University of Life Sciences) 
 
 Full thesis: Melanisation of lichens - the composition of melanin and the role of ultraviolet light (UV) in peltigeralean and non-peltigeralean lichens
@@ -40,4 +41,4 @@ Awards: The prestigious Southern Africa Association for the Advancement of Scien
 
 
 
-`Feel free to reach out via [coral.mafole@gmail.com](coral.mafole@gmail.com)`
+`Feel free to reach out via coral.mafole@gmail.com`
