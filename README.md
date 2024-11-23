@@ -3,7 +3,7 @@ Hi, I'm Tshepiso. I'm a scientist.
 I value living outside the box and embrace resilience. These ideals guide my approach to problem-solving and life in general.
 
 
-![App Screenshot](Students%20-%20Tshepiso%20Mafole.jpg)
+![App Screenshot](mafole-Coral.github.io/Students%20-%20Tshepiso%20Mafole.jpg)
 
 
 ## About Me
