@@ -6,9 +6,6 @@ I value clarity, detail, repurposing and embrace resilience. These ideals guide 
 
 <img src=".github/workflows/image.jpg" alt="My Image" width="300">
 
-<img src="https://raw.githubusercontent.com/mafole-Coral/tshepiso-mafole.github.io/blob/main/.github/workflows/image.jpg" raw=true alt="My Image" width="300">
-
-
 ## About Me
 I am an ecologist driven by a passion for understanding the natural environment—its functions and its role in sustaining ecosystem components and human well-being, particularly under the pressures of environmental change and disturbances. My work has centered on Mediterranean-type ecosystems, utilising methods such as species distribution modeling (*MaxEnt, R, QGIS, GBIF*), demographic matrix models (*Leslie, Lefkovich, R, COMPADRE-Plant Matrix Database*), and field-based vegetation surveys to develop frameworks for ecosystem management in the context of climate change.
 
