@@ -4,6 +4,7 @@ I value clarity, detail, repurposing and embrace resilience. These ideals guide 
 
 <img src= "https://github.com/mafole-Coral/tshepiso-mafole.github.io/blob/main/.github/workflows/image.jpg" raw=true alt="My Image" width="300">
 
+<img src=".github/workflows/image.jpg" alt="My Image" width="300">
 
 <img src="https://raw.githubusercontent.com/mafole-Coral/tshepiso-mafole.github.io/blob/main/.github/workflows/image.jpg" raw=true alt="My Image" width="300">
 
