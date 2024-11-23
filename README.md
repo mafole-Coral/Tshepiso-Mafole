@@ -1,9 +1,10 @@
-Hi, I'm Tshepiso. I'm a scientist. 
+Hi, I'm Tshepiso. I'm a scientist.                                                                                                                                              
+
 I value living outside the box and embrace resilience. These ideals guide my approach to problem-solving and life in general.
 
 
-## Professional Me
-I am an ecologist driven by a passion for understanding the natural environment—its functions and its role in sustaining ecosystem components and human well-being, particularly under the pressures of environmental change and disturbances. My work has centered on Mediterranean-type ecosystems, utilising methods such as species distribution modeling, demographic matrix models, and field-based vegetation surveys to develop frameworks for ecosystem management in the context of climate change.
+## About Me
+I am an ecologist driven by a passion for understanding the natural environment—its functions and its role in sustaining ecosystem components and human well-being, particularly under the pressures of environmental change and disturbances. My work has centered on Mediterranean-type ecosystems, utilising methods such as species distribution modeling (*MaxEnt, R, QGIS, GBIF*), demographic matrix models (*Leslie, Lefkovich, R, COMPADRE-Plant Matrix Database*), and field-based vegetation surveys to develop frameworks for ecosystem management in the context of climate change.
 
 I am broadening my expertise to explore the integration of nature, technology, and business, aiming to drive innovative solutions for a nature-positive future.
 
@@ -14,14 +15,18 @@ I am broadening my expertise to explore the integration of nature, technology, a
 
 
 ## Publications
-PhD Ecology (University of Cape Town)
+**PhD Ecology** (University of Cape Town)
+
 Full thesis: Investigating the impact of climate, soil, and fire on the potential dominance of warm-season C4 grass species across Winter-Rainfall Regions
 
 - **Exploring the role of environmental factors on contemporary C4 grass distributions across Mediterranean-type ecosystems** *(Manuscript in preparation)*
 - **The effect of additional summer rainfall on C4 grass recruitment and establishment in the Greater Cape Floristic Region** *(Manuscript in preparation)*
 
-MSc Botany (University of KwaZulu-Natal, Norwegian University of Life Sciences)
-Full thesis: Melanisation of lichens - the composition of melanin and the role of ultraviolet light (uv) in peltigeralean and non-peltigeralean lichens
+
+
+**MSc Botany** (University of KwaZulu-Natal, Norwegian University of Life Sciences) 
+
+Full thesis: Melanisation of lichens - the composition of melanin and the role of ultraviolet light (UV) in peltigeralean and non-peltigeralean lichens
 [Link](https://doi.org/10.1016/j.jep.2017.03.044)
 
 Awards: The prestigious Southern Africa Association for the Advancement of Science (S2A3) prize for the best MSc thesis for 2018
@@ -33,4 +38,6 @@ Awards: The prestigious Southern Africa Association for the Advancement of Scien
 
 
 
-'Feel free to reach out via [email@example.com](coral.mafole@gmail.com)'
+
+
+`Feel free to reach out via [coral.mafole@gmail.com](coral.mafole@gmail.com)`
