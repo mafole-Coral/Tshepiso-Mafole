@@ -27,7 +27,7 @@ Full thesis: Investigating the impact of climate, soil, and fire on the potentia
 
 **MSc Botany** (University of KwaZulu-Natal, Norwegian University of Life Sciences) 
 
-Full thesis: Melanisation of lichens - the composition of melanin and the role of ultraviolet light (UV) in peltigeralean and non-peltigeralean lichens
+Full thesis: Melanisation of lichens - the composition of melanin and the role of ultraviolet light (UV) in peltigeralean and non-peltigeralean lichens:
 [Link](https://doi.org/10.1016/j.jep.2017.03.044)
 
 Awards: The prestigious Southern Africa Association for the Advancement of Science (S2A3) prize for the best MSc thesis for 2018
