@@ -3,6 +3,9 @@ Hi, I'm Tshepiso. I'm a scientist.
 I value living outside the box and embrace resilience. These ideals guide my approach to problem-solving and life in general.
 
 
+![App Screenshot](Students%20-%20Tshepiso%20Mafole.jpg)
+
+
 ## About Me
 I am an ecologist driven by a passion for understanding the natural environment—its functions and its role in sustaining ecosystem components and human well-being, particularly under the pressures of environmental change and disturbances. My work has centered on Mediterranean-type ecosystems, utilising methods such as species distribution modeling (*MaxEnt, R, QGIS, GBIF*), demographic matrix models (*Leslie, Lefkovich, R, COMPADRE-Plant Matrix Database*), and field-based vegetation surveys to develop frameworks for ecosystem management in the context of climate change.
 
