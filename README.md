@@ -2,8 +2,6 @@ Hi, I'm Tshepiso. I'm a scientist.
 
 *I value clarity, detail, repurposing and embrace resilience. These ideals guide my approach to problem-solving and life in general.*
 
-<img src= "https://github.com/mafole-Coral/tshepiso-mafole.github.io/blob/main/.github/workflows/image.jpg" raw=true alt="My Image" width="300">
-
 <img src=".github/workflows/image.jpg" alt="My Image" width="300">
 
 ## About Me
