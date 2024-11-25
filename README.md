@@ -1,6 +1,5 @@
 Hi, I'm Tshepiso. I'm a scientist.                                                                                                                                              
 
-*I value detail, repurposing and embrace resilience. These ideals guide my approach to problem-solving and life in general.*
 
 <img src=".github/workflows/image.jpg" alt="My Image" width="300">
 
@@ -8,6 +7,8 @@ Hi, I'm Tshepiso. I'm a scientist.
 I am an ecologist driven by a passion for understanding the natural environment—its functions and its role in sustaining ecosystem components and human well-being, particularly under the pressures of environmental change and disturbances. My work has centered on Mediterranean-type ecosystems, utilising methods such as species distribution modeling (*MaxEnt, R, QGIS, GBIF*), demographic matrix models (*Leslie, Lefkovich, R, COMPADRE-Plant Matrix Database*), and field-based vegetation surveys to develop frameworks for ecosystem management in the context of climate change.
 
 I am broadening my expertise to explore the integration of nature, technology, and business, aiming to drive innovative solutions for a nature-positive future.
+
+*I value detail, repurposing and embrace resilience. These ideals guide my approach to problem-solving and life in general.*
 
 ## Interests
 - C4 grass expansion in Mediterranean-type ecosystems
