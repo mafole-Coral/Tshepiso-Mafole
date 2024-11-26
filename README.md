@@ -32,7 +32,7 @@ Full thesis: Investigating the impact of climate, soil, and fire on the potentia
 Full thesis: Melanisation of lichens - the composition of melanin and the role of ultraviolet light (UV) in peltigeralean and non-peltigeralean lichens:
 [Link](https://doi.org/10.1016/j.jep.2017.03.044)
 
-Awards: The prestigious Southern Africa Association for the Advancement of Science (S2A3) prize for the best MSc thesis for 2018
+Awards: Southern Africa Association for the Advancement of Science (S2A3) prize for the best MSc thesis for 2018
 
 - **An overview on *Leucosidea sericea* Eckl. & Zeyh.: A multi-purpose tree with potential as a phytomedicine**: [Link](https://doi.org/10.1016/j.jep.2017.03.044)
 - **Melanisation in the old forest lichen *Lobaria pulmonaria* reduces the efficiency of photosynthesis**: [Link](https://doi.org/10.1016/j.funeco.2017.07.004)
